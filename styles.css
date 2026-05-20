@@ -27,6 +27,7 @@ a:active{
     height: 200px;
     position: absolute;
     z-index: 1;
+  background-color: white;
 }
 .sub-item{
     border-bottom: 1px solid black;
